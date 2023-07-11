@@ -1,4 +1,4 @@
-# blogwebsite
+# Collegepedia
 
 <img width="688" alt="front_img" src="https://github.com/kagHarsh/blogwebsite/assets/124779369/5f21df6f-b06a-420f-a563-f58aab988956">
 
