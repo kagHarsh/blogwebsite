@@ -18,11 +18,12 @@ This website is build to assist people who need review of the esteemed college o
   - Other users can use that information to get insight of their dreamed college, the programs offered, previous year GATE cutoff, placement stats, and their experiences.
 
 # Installation
-  - Clone the repository: **git clone <repository-url>**
-  - Install dependencies: **npm install**
+  - Clone the repository: *git clone <repository-url>*
+  - Install dependencies: *npm install*
   - Set up the environment variables:
     - Create a **.env** file in the root directory of the project
     - Add necessary environment variables, such as database connection details, API keys, etc.
-  - Start the development server: **npm start**
+  - In api directory, run: *npx nodemon index.js* 
+  - Move to the client folder and  start the development server: *npm start*
 
 Feel free to modify and customize this template to fit your specific project needs.
