@@ -6,7 +6,7 @@
 This website is build to assist people who need review of the esteemed college of India, like IIT,IIIT,NIT..ets for taking admission in Mtech through GATE.
 
 
-
+https://github.com/kagHarsh/blogwebsite/assets/124779369/5ee8d1d3-640b-487d-a4eb-109b2cc2eb12
 
 # Technologies Used
 
